@@ -1,4 +1,4 @@
-# Project-1-Group-2
+# Education Trends and Opportunities
 
 For this project, we focused our efforts within researching the best colleges to enroll in the United States of America. From a sample size of 453 colleges sorted between private and public schools, we narrowed down the best colleges by their availabilities, acceptance/graduation rates and total costs (tuition fees, personal spendings, book costs, and room & board prices per semester). 
 
