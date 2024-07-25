@@ -11,6 +11,9 @@ This project centered on researching the best colleges for enrollment in the Uni
 
 - <b>Objectives:</b> <br>
   -Identify what colleges provide the best return on investment of career earnings.
+
   -Inform new applicants that are deciding between different colleges.
+
   -Analyze what colleges offer the most bang for your buck.
+
   -Understand how promising degrees like STEM can lead to high-starting salaries
