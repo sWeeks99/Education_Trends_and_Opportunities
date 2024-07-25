@@ -20,7 +20,7 @@
 
 ## Data Sources
 
-#### University Studetn Data:
+#### University Student Data:
   * [Kaggle](https://www.kaggle.com/datasets/tarekmuhammed/university-students-data?select=Kmeans_assignment_data.csv)
 
   * [Payscale](https://www.payscale.com/college-salary-report/bachelors)
