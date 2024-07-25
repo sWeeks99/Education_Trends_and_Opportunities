@@ -16,7 +16,7 @@
 
   - Analyze what colleges offer the most bang for your buck.
 
-  - Understand how promising degrees like STEM can lead to high-starting salaries
+  - Understand how promising degrees like STEM can lead to high-starting salaries.
 
 ## Data Sources
 
@@ -26,4 +26,4 @@
   * [Payscale](https://www.payscale.com/college-salary-report/bachelors)
 
 ## Acknowledgements
-- XPert Learning Assistant was used to review and troubleshoot our code as needed
+- XPert Learning Assistant was used to review and troubleshoot our code as needed.
