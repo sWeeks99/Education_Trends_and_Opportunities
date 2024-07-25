@@ -10,19 +10,20 @@
   This project centered on researching the best colleges for enrollment in the United States of America. Out of 453 colleges categorized into private and public institutions; the criteria considered were availability, acceptance/graduation rates, and comprehensive costs, encompassing tuition fees, personal expenses, book costs, and room & board prices per semester.
 
 - <b>Objectives:</b> <br>
-  -Identify what colleges provide the best return on investment of career earnings.
+  - Identify what colleges provide the best return on investment of career earnings.
 
-  -Inform new applicants that are deciding between different colleges.
+  - Inform new applicants that are deciding between different colleges.
 
-  -Analyze what colleges offer the most bang for your buck.
+  - Analyze what colleges offer the most bang for your buck.
 
-  -Understand how promising degrees like STEM can lead to high-starting salaries
+  - Understand how promising degrees like STEM can lead to high-starting salaries
 
 ## Data Sources
 
 #### University Studetn Data:
-  *[Kaggle](https://www.kaggle.com/datasets/tarekmuhammed/university-students-data?select=Kmeans_assignment_data.csv)
-  *[Payscale](https://www.payscale.com/college-salary-report/bachelors)
+  * [Kaggle](https://www.kaggle.com/datasets/tarekmuhammed/university-students-data?select=Kmeans_assignment_data.csv)
+
+  * [Payscale](https://www.payscale.com/college-salary-report/bachelors)
 
 ## Acknowledgements
 -XPert Learning Assistant was used to review and troubleshoot our code as needed
