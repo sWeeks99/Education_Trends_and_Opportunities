@@ -27,4 +27,4 @@
 
 ## Acknowledgements
 - XPert Learning Assistant was used to review and troubleshoot our code as needed.
-- [StackOverflow](https://stackoverflow.com/): for technical references.
+- [StackOverflow](https://stackoverflow.com/) for technical references.
