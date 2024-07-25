@@ -10,11 +10,11 @@
   This project focused on researching optimal college choices in the United States. Evaulating over 450 colleges, distinguishing between private and public institutions based on criteria such as availability, acceptance and graduation rates, and comprehensive costs. These costs consist of tuition fees, personal expenses, book costs, and room and board prices per semester.
 
 - <b>Objectives:</b> <br>
-  - Identify what colleges provide the best return on investment of career earnings.
+  - Identify which colleges offer the highest return on investment of career earnings.
 
-  - Inform new applicants that are deciding between different colleges.
+  - Provide guidance to new applicants who are deciding between different colleges.
 
-  - Understand how promising degrees like STEM can lead to high-starting salaries.
+  - Understand how lucrative degrees like STEM can lead to high initial salaries.
 
 ## Data Sources
 
