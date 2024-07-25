@@ -7,14 +7,12 @@
 ## About
 * <b>Project Summary:</b><br>
 
-  This project centered on researching the best colleges for enrollment in the United States of America. Out of 453 colleges categorized into private and public institutions; the criteria considered were availability, acceptance/graduation rates, and comprehensive costs, encompassing tuition fees, personal expenses, book costs, and room & board prices per semester.
+  This project focused on researching optimal college choices in the United States. Evaulating over 450 colleges, distinguishing between private and public institutions based on criteria such as availability, acceptance and graduation rates, and comprehensive costs. These costs consist of tuition fees, personal expenses, book costs, and room and board prices per semester.
 
 - <b>Objectives:</b> <br>
   - Identify what colleges provide the best return on investment of career earnings.
 
   - Inform new applicants that are deciding between different colleges.
-
-  - Analyze what colleges offer the most bang for your buck.
 
   - Understand how promising degrees like STEM can lead to high-starting salaries.
 
