@@ -26,4 +26,4 @@
   * [Payscale](https://www.payscale.com/college-salary-report/bachelors)
 
 ## Acknowledgements
--XPert Learning Assistant was used to review and troubleshoot our code as needed
+- XPert Learning Assistant was used to review and troubleshoot our code as needed
