@@ -7,7 +7,7 @@
 ## About
 * <b>Project Summary:</b><br>
 
-  This project focused on researching optimal college choices in the United States. Evaulating over 450 colleges, distinguishing between private and public institutions based on criteria such as availability, acceptance and graduation rates, and comprehensive costs. These costs consist of tuition fees, personal expenses, book costs, and room and board prices per semester.
+  This project focused on researching optimal college choices in the United States. Evaluating  over 450 colleges, distinguishing between private and public institutions based on criteria such as availability, acceptance and graduation rates, and comprehensive costs. These costs consist of tuition fees, personal expenses, book costs, and room and board prices per semester.
 
 - <b>Objectives:</b> <br>
   - Identify which colleges offer the highest return on investment of career earnings.
